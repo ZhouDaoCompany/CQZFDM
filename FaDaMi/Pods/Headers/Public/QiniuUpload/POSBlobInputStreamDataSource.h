@@ -1,1 +1,0 @@
-../../../QiniuUpload/Classes/POSInputStreamLibrary/POSBlobInputStreamDataSource.h

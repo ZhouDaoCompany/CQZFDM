@@ -1,1 +1,0 @@
-../../../QiniuUpload/Classes/QUMDefines.h

@@ -1,1 +1,0 @@
-../../../QiniuUpload/Classes/POSInputStreamLibrary/POSAdjustedAssetReaderIOS7.h

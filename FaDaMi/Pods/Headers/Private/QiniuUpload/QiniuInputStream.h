@@ -1,1 +1,0 @@
-../../../QiniuUpload/Classes/QiniuInputStream.h
